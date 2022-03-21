@@ -14,20 +14,19 @@ const Header = () => {
           </div>
 
          <div className="col-lg-6">
-         <div className="main-page__title-block ">
+         <div className="main-page__title-block mb-5">
            <h1>
-           <span className="main-page__title">Your</span>
-           <span className="main-page__title main-page__title--big">IT Outsourcing </span>
-           <span className = "main-page__title main-page__title main-page__title--sub">
-           partner
-           </span>
+           {/* <span className="main-page__title">Your</span> */}
+           <span className="main-page__title main-page__title--big">Blockchain Development </span>
+           {/* <span className = "main-page__title main-page__title main-page__title--sub">
+           Service Provider
+           </span> */}
            </h1>
           </div>
         
-          <div className="main-page__description">
+          <div className="main-page__description mb-5">
             <p>
-            Devox Software is a Top Software Development Agency in Ukraine 2020 🥇 that creates design and development solutions for startups, SMBs, and enterprises.
-            </p>            
+            BlockX Technologies is a complete End to End Blockchain Development Company. We are specialized in development of DeFi,DAO,NFT,Exchanges on Various Blockchain Platform.            </p>            
           </div>
           <div className="main-page__button-container">
             <div className="main-page__button-text">

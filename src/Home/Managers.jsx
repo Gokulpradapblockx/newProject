@@ -4,13 +4,20 @@ import {
   } from "react-icons/fa";
 const Managers = () => {
   return (
-    <div className="container">
-        
-        <div className="why">
+    <div className="About">
+         <div className="row">
+          <div className="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+          <div className="why">
             <h1><span>Talk</span> <br/> To Managers</h1>
         </div>
-        <div className="manager-card">
-           
+          </div>
+          <div className="opacity container-fluid col-lg-6 col-md-6 col-sm-6 col-xs-6">
+            <h1>Talk</h1>
+          </div>
+        </div>
+        <div className="container">        
+        
+        <div className="manager-card">           
                 <div className="row card-component">
                     <div className="col-lg-4 col-sm-12 compont">
                         <h5>TALK TECH?</h5>
@@ -30,6 +37,8 @@ const Managers = () => {
                 </div>
             
         </div>
+    </div>
+
     </div>
   )
 }

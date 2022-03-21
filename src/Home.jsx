@@ -1,15 +1,14 @@
 import React from 'react'
-import About from "./About";
-import Contactus from "./Contactus";
-import Why from "./Why";
-import Managers from "./Managers"
-import Footer from "./Footer";
-import Nav from "./Nav"
-import Header from "./Header";
+import About from "./Home/About";
+import Contactus from "./Home/Contactus";
+import Why from "./Home/Why";
+import Managers from "./Home/Managers"
+import Footer from "./Home/Footer";
+
+import Header from "./Home/Header";
 const Home = () => {
   return (
   <>
-   <Nav/> 
   <Header/>
    <About/> 
   <Managers/> 

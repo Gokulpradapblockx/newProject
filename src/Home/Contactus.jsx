@@ -97,32 +97,31 @@ function Contactus() {
                   <div>
                     <input
                       type="radio"
-                      id="Devox Software services"
+                      id="Blockchain Development"
                       name="fav_language"
-                      value="Devox Software services"
+                      value="Blockchain Development"
                     />
-                    <label for="Devox Software services">
-                      Devox Software services
+                    <label for="Blockchain Development">
+                      Blockchain Development
                     </label>
                   </div>
-
                   <div>
                     <input
                       type="radio"
-                      id="Join Devox Software"
+                      id="Marketing"
                       name="fav_language"
-                      value="Join Devox Software"
+                      value="Marketing"
                     />
-                    <label for="Join Devox Software">Join Devox Software</label>
+                    <label for="Marketing">Marketing</label>
                   </div>
                   <div>
                     <input
                       type="radio"
-                      id="javascript"
+                      id="Join our Team"
                       name="fav_language"
-                      value="JavaScript"
+                      value="Join our Team"
                     />
-                    <label for="javascript">Advertise your services</label>
+                    <label for="Join our Team">Join our Team</label>
                   </div>
                 </div>
               </div>
